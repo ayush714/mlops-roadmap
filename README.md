@@ -21,7 +21,7 @@
 
 # Machine Learning Operations(MLOps) Roadmap 🤖
 
-This repository is a comprehensive guide to anyone who wishes to learn MLOps. It contains a roadmap with various topics and resources. You can find detailed videos on these topics on my YouTube channel (linked in the description). For a more in-depth understanding, consider enrolling in my comprehensive course.
+This repository is a comprehensive guide for anyone who wishes to learn MLOps. It contains a roadmap with various topics and resources. You can find detailed videos on these topics on my YouTube channel (linked in the description). For a more in-depth understanding, consider enrolling in my comprehensive course.
 
 ## Table of Contents
 
@@ -42,8 +42,8 @@ Before you start your journey, it's essential to have a solid base in machine le
 Understanding the Software Development Life Cycle is the next step:
 
 - Requirement Gathering Analysis: Understand what the client needs and determine the feasibility of the requirements.
-- Design: Plan and design the software-based on the requirement analysis.
-- Implementation or Coding: Build the software by integrating the pieces of code and libraries.
+- Design: Plan and design the software based on the requirement analysis.
+- Implementation of Coding: Build the software by integrating the pieces of code and libraries.
 - Testing: Test the software for any bugs and ensure it works as expected.
 - Deployment: Release the software on live servers where actual users will use it.
 - Maintenance: After deployment, introduce updates and improvements to the software.
@@ -69,12 +69,12 @@ Once you have a good grasp of DevOps, it's time to dive into MLOps:
 - Continuous Integration for Machine Learning: Tools like [Jenkins](https://www.jenkins.io/) and [GitHub Actions](https://github.com/features/actions)
 - Continuous Deployment for Machine Learning: Tools like Jenkins, GitHub Actions, and Azure DevOps
 - Model Monitoring and Retraining: Tools like ModelDB, MLflow, and TFX
-- Governance and Regulatory Compliance: Tools like IBM OpenPages and Collibra 
+- Governance and Regulatory Compliance: Tools like IBM OpenPages and Collaborations
 
 ## My Courses <a name="my-courses"></a>
 
 * Core Machine Learning Course: For a comprehensive, paid course on Machine Learning, please visit this [link](https://youtu.be/PhB5CkbZHB8).
-* Free 10-hour Video Course: For a free, 10-hour long introduction to Machine Learning, please watch this [video](https://youtu.be/0g-XL0WV2xo).
+* Free 10-hour Video Course: For a free, 10-hour-long introduction to Machine Learning, please watch this [video](https://youtu.be/0g-XL0WV2xo).
 
 ### Contributions 🤝
 
