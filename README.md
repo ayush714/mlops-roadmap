@@ -21,7 +21,7 @@
 
 # Machine Learning Operations(MLOps) Roadmap 🤖
 
-This repository is a comprehensive guide to anyone who wishes to learn MLOps. It contains a roadmap with various topics and resources. You can find detailed videos on these topics on my YouTube channel (linked in the description). For a more in-depth understanding, consider enrolling in my comprehensive course.
+This repository is a comprehensive guide for anyone who wishes to learn MLOps. It contains a roadmap with various topics and resources. You can find detailed videos on these topics on my YouTube channel (linked in the description). For a more in-depth understanding, consider enrolling in my comprehensive course.
 
 ## Table of Contents
 
